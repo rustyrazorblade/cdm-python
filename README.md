@@ -1,3 +1,5 @@
+# This project is no longer maintained, please see it's successor, http://github.com/riptano/cdm-java
+
 # Cassandra Data Manager
 
 Tool for installing cassandra datasets.  This is not a bulk loader.  It is intended to be used as a tool for learning and educational purposes.
